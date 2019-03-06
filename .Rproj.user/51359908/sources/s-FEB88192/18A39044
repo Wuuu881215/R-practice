@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551862022858.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3659536256",
+    "id" : "18A39044",
+    "lastKnownWriteTime" : 1551862375,
+    "last_content_update" : 1551862375574,
+    "path" : "C:/Users/emma8/Desktop/R-practice/R.Rmd",
+    "project_path" : "R.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
